@@ -1,0 +1,25 @@
+Loading Movies Part one:
+
+This is a basic example of loading mutiple .swf files into 
+Movie Clip instances.
+
+There are 4 .fla files and 4 .swf files (authored in Flash MX - Windows)
+
+MainMovie.fla:
+This is the base movie that you load your other files into.
+It has 3 Movie Clip instances named mc_holder1 mc_holder2 mc_holder3.
+
+The following actionscript on Frame 1 loads "Movie1.swf" into the 
+into the Movie Clip instance called mc_holder1.
+
+loadMovie("Movie1.swf","mc_holder1");
+
+Movie1.fla:
+Movie2.fla:
+Movie3.fla:
+
+These are just simple text and animation to give a visual view
+of what is being done.
+
+To test the movie just open MainMovie.swf in Flash.
+To find out how it is done look at the .fla files.

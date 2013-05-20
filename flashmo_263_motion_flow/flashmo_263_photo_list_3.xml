@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+	
+	<config
+		folder="photos/"
+
+		thumbnail_black_white="true"
+		thumbnail_alpha="1"
+		thumbnail_x_spacing="20"
+		thumbnail_y_spacing="20"
+		max_thumbnail_width="100"
+		max_thumbnail_height="100"
+		thumbnail_border_size="5"
+		thumbnail_border_color="#FFFFFF"
+		no_of_rows="4"
+		no_of_columns="6"
+		
+		photo_border_size="10"
+		photo_border_color="#FFFFFF"
+		close_button="true"
+		previous_button="true"
+		next_button="true"
+		
+		description="false"
+		description_bg_color="#000000"
+		description_bg_alpha="0.7"
+		css_file="flashmo_210_style.css"
+		
+		tween_in_effect="easeOutSine"
+		tween_out_effect="easeInSine"
+		tween_duration="0.5"
+		tween_delay="0.02"
+		tween_distance="-50"
+		tween_rotation="90"
+		tween_scale="0.4">
+	</config>
+	
+	<photo>
+		<thumbnail>s_photo_201.jpg</thumbnail>
+		<filename>photo_201.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_202.jpg</thumbnail>
+		<filename>photo_202.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_203.jpg</thumbnail>
+		<filename>photo_203.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_204.jpg</thumbnail>
+		<filename>photo_204.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_205.jpg</thumbnail>
+		<filename>photo_205.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_206.jpg</thumbnail>
+		<filename>photo_206.jpg</filename>
+	</photo>
+
+	<photo>
+		<thumbnail>s_photo_207.jpg</thumbnail>
+		<filename>photo_207.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_208.jpg</thumbnail>
+		<filename>photo_208.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_209.jpg</thumbnail>
+		<filename>photo_209.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_210.jpg</thumbnail>
+		<filename>photo_210.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_211.jpg</thumbnail>
+		<filename>photo_211.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_212.jpg</thumbnail>
+		<filename>photo_212.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_213.jpg</thumbnail>
+		<filename>photo_213.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_214.jpg</thumbnail>
+		<filename>photo_214.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_215.jpg</thumbnail>
+		<filename>photo_215.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_216.jpg</thumbnail>
+		<filename>photo_216.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_217.jpg</thumbnail>
+		<filename>photo_217.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_218.jpg</thumbnail>
+		<filename>photo_218.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_219.jpg</thumbnail>
+		<filename>photo_219.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_220.jpg</thumbnail>
+		<filename>photo_220.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_221.jpg</thumbnail>
+		<filename>photo_221.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_222.jpg</thumbnail>
+		<filename>photo_222.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_223.jpg</thumbnail>
+		<filename>photo_223.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_224.jpg</thumbnail>
+		<filename>photo_224.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_225.jpg</thumbnail>
+		<filename>photo_225.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_226.jpg</thumbnail>
+		<filename>photo_226.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_227.jpg</thumbnail>
+		<filename>photo_227.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_228.jpg</thumbnail>
+		<filename>photo_228.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_229.jpg</thumbnail>
+		<filename>photo_229.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_230.jpg</thumbnail>
+		<filename>photo_230.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_231.jpg</thumbnail>
+		<filename>photo_231.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_232.jpg</thumbnail>
+		<filename>photo_232.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_233.jpg</thumbnail>
+		<filename>photo_233.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_234.jpg</thumbnail>
+		<filename>photo_234.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_235.jpg</thumbnail>
+		<filename>photo_235.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_236.jpg</thumbnail>
+		<filename>photo_236.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_201.jpg</thumbnail>
+		<filename>photo_201.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_202.jpg</thumbnail>
+		<filename>photo_202.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_203.jpg</thumbnail>
+		<filename>photo_203.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_204.jpg</thumbnail>
+		<filename>photo_204.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_205.jpg</thumbnail>
+		<filename>photo_205.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_206.jpg</thumbnail>
+		<filename>photo_206.jpg</filename>
+	</photo>
+
+	<photo>
+		<thumbnail>s_photo_207.jpg</thumbnail>
+		<filename>photo_207.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_208.jpg</thumbnail>
+		<filename>photo_208.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_209.jpg</thumbnail>
+		<filename>photo_209.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_210.jpg</thumbnail>
+		<filename>photo_210.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_211.jpg</thumbnail>
+		<filename>photo_211.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_212.jpg</thumbnail>
+		<filename>photo_212.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_213.jpg</thumbnail>
+		<filename>photo_213.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_214.jpg</thumbnail>
+		<filename>photo_214.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_215.jpg</thumbnail>
+		<filename>photo_215.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_216.jpg</thumbnail>
+		<filename>photo_216.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_217.jpg</thumbnail>
+		<filename>photo_217.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_218.jpg</thumbnail>
+		<filename>photo_218.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_219.jpg</thumbnail>
+		<filename>photo_219.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_220.jpg</thumbnail>
+		<filename>photo_220.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_221.jpg</thumbnail>
+		<filename>photo_221.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_222.jpg</thumbnail>
+		<filename>photo_222.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_223.jpg</thumbnail>
+		<filename>photo_223.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_224.jpg</thumbnail>
+		<filename>photo_224.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_225.jpg</thumbnail>
+		<filename>photo_225.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_226.jpg</thumbnail>
+		<filename>photo_226.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_227.jpg</thumbnail>
+		<filename>photo_227.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_228.jpg</thumbnail>
+		<filename>photo_228.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_229.jpg</thumbnail>
+		<filename>photo_229.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_230.jpg</thumbnail>
+		<filename>photo_230.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_231.jpg</thumbnail>
+		<filename>photo_231.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_232.jpg</thumbnail>
+		<filename>photo_232.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_233.jpg</thumbnail>
+		<filename>photo_233.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_234.jpg</thumbnail>
+		<filename>photo_234.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_235.jpg</thumbnail>
+		<filename>photo_235.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_236.jpg</thumbnail>
+		<filename>photo_236.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_201.jpg</thumbnail>
+		<filename>photo_201.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_202.jpg</thumbnail>
+		<filename>photo_202.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_203.jpg</thumbnail>
+		<filename>photo_203.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_204.jpg</thumbnail>
+		<filename>photo_204.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_205.jpg</thumbnail>
+		<filename>photo_205.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_206.jpg</thumbnail>
+		<filename>photo_206.jpg</filename>
+	</photo>
+
+	<photo>
+		<thumbnail>s_photo_207.jpg</thumbnail>
+		<filename>photo_207.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_208.jpg</thumbnail>
+		<filename>photo_208.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_209.jpg</thumbnail>
+		<filename>photo_209.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_210.jpg</thumbnail>
+		<filename>photo_210.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_211.jpg</thumbnail>
+		<filename>photo_211.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_212.jpg</thumbnail>
+		<filename>photo_212.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_213.jpg</thumbnail>
+		<filename>photo_213.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_214.jpg</thumbnail>
+		<filename>photo_214.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_215.jpg</thumbnail>
+		<filename>photo_215.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_216.jpg</thumbnail>
+		<filename>photo_216.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_217.jpg</thumbnail>
+		<filename>photo_217.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_218.jpg</thumbnail>
+		<filename>photo_218.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_219.jpg</thumbnail>
+		<filename>photo_219.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_220.jpg</thumbnail>
+		<filename>photo_220.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_221.jpg</thumbnail>
+		<filename>photo_221.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_222.jpg</thumbnail>
+		<filename>photo_222.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_223.jpg</thumbnail>
+		<filename>photo_223.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_224.jpg</thumbnail>
+		<filename>photo_224.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_225.jpg</thumbnail>
+		<filename>photo_225.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_226.jpg</thumbnail>
+		<filename>photo_226.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_227.jpg</thumbnail>
+		<filename>photo_227.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_228.jpg</thumbnail>
+		<filename>photo_228.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_229.jpg</thumbnail>
+		<filename>photo_229.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_230.jpg</thumbnail>
+		<filename>photo_230.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_231.jpg</thumbnail>
+		<filename>photo_231.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_232.jpg</thumbnail>
+		<filename>photo_232.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_233.jpg</thumbnail>
+		<filename>photo_233.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_234.jpg</thumbnail>
+		<filename>photo_234.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_235.jpg</thumbnail>
+		<filename>photo_235.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_236.jpg</thumbnail>
+		<filename>photo_236.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_201.jpg</thumbnail>
+		<filename>photo_201.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_202.jpg</thumbnail>
+		<filename>photo_202.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_203.jpg</thumbnail>
+		<filename>photo_203.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_204.jpg</thumbnail>
+		<filename>photo_204.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_205.jpg</thumbnail>
+		<filename>photo_205.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_206.jpg</thumbnail>
+		<filename>photo_206.jpg</filename>
+	</photo>
+
+	<photo>
+		<thumbnail>s_photo_207.jpg</thumbnail>
+		<filename>photo_207.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_208.jpg</thumbnail>
+		<filename>photo_208.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_209.jpg</thumbnail>
+		<filename>photo_209.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_210.jpg</thumbnail>
+		<filename>photo_210.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_211.jpg</thumbnail>
+		<filename>photo_211.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_212.jpg</thumbnail>
+		<filename>photo_212.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_213.jpg</thumbnail>
+		<filename>photo_213.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_214.jpg</thumbnail>
+		<filename>photo_214.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_215.jpg</thumbnail>
+		<filename>photo_215.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_216.jpg</thumbnail>
+		<filename>photo_216.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_217.jpg</thumbnail>
+		<filename>photo_217.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_218.jpg</thumbnail>
+		<filename>photo_218.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_219.jpg</thumbnail>
+		<filename>photo_219.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_220.jpg</thumbnail>
+		<filename>photo_220.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_221.jpg</thumbnail>
+		<filename>photo_221.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_222.jpg</thumbnail>
+		<filename>photo_222.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_223.jpg</thumbnail>
+		<filename>photo_223.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_224.jpg</thumbnail>
+		<filename>photo_224.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_225.jpg</thumbnail>
+		<filename>photo_225.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_226.jpg</thumbnail>
+		<filename>photo_226.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_227.jpg</thumbnail>
+		<filename>photo_227.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_228.jpg</thumbnail>
+		<filename>photo_228.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_229.jpg</thumbnail>
+		<filename>photo_229.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_230.jpg</thumbnail>
+		<filename>photo_230.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_231.jpg</thumbnail>
+		<filename>photo_231.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_232.jpg</thumbnail>
+		<filename>photo_232.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_233.jpg</thumbnail>
+		<filename>photo_233.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_234.jpg</thumbnail>
+		<filename>photo_234.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_235.jpg</thumbnail>
+		<filename>photo_235.jpg</filename>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_236.jpg</thumbnail>
+		<filename>photo_236.jpg</filename>
+	</photo>
+
+</photos>

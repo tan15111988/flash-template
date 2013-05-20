@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<projects>
+
+		<category type="PHOTO GALLERY I">
+			<project id="a1" name="Photo name 1" thumbnail="a1_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="400"/>
+				<desc>1.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b1" name="Photo name 2" thumbnail="b1_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="350"/>
+				<desc>2.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a2" name="Photo name 3" thumbnail="a2_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="470"/>
+				<desc>3.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b2" name="Photo name 4" thumbnail="b2_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="260" height="350"/>
+				<desc>4.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a3" name="Photo name 5" thumbnail="a3_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="400"/>
+				<desc>5.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b3" name="Photo name 6" thumbnail="b3_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="700" height="300"/>
+				<desc>6.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                 </category>
+                 <category type="PHOTO GALLERY II">
+			<project id="a4" name="Photo name 7" thumbnail="a4_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="450"/>
+				<desc>7.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b4" name="Photo name 8" thumbnail="b4_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="450"/>
+				<desc>8.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a5" name="Photo name 9" thumbnail="a5_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="400" height="300"/>
+				<desc>9.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b5" name="Photo name 10" thumbnail="b5_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="500" height="330"/>
+				<desc>10.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a9" name="Photo name 11" thumbnail="a9_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="900" height="480"/>
+				<desc>11.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b6" name="Photo name 12" thumbnail="b6_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="350"/>
+				<desc>12.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                 </category>
+                 <category type="PHOTO GALLERY III">
+			<project id="a6" name="Photo name 13" thumbnail="a6_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="270" height="400"/>
+				<desc>13.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+			</project>
+                        <project id="b7" name="Photo name 14" thumbnail="b7_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="500" height="330"/>
+				<desc>14.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a7" name="Photo name 15" thumbnail="a7_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="550" height="400"/>
+				<desc>14.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a8" name="Photo name 16" thumbnail="a8_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="900" height="290"/>
+				<desc>15.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                 </category>
+                 <category type="PHOTO GALLERY IV">
+                        <project id="a1" name="Photo name 17" thumbnail="a1_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="400"/>
+				<desc>17.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a2" name="Photo name 18" thumbnail="a2_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="470"/>
+				<desc>18.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                 </category>
+                 <category type="PHOTO GALLERY V">
+			<project id="a3" name="Photo name 19" thumbnail="a3_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="400"/>
+				<desc>19.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a4" name="Photo name 20" thumbnail="a4_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="450"/>
+				<desc>20.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a5" name="Photo name 21" thumbnail="a5_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="400" height="300"/>
+				<desc>21.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+		</category>
+<category type="PHOTO GALLERY V">
+			<project id="a1" name="Photo name 1" thumbnail="a1_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="400"/>
+				<desc>1.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b1" name="Photo name 2" thumbnail="b1_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="350"/>
+				<desc>2.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a2" name="Photo name 3" thumbnail="a2_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="470"/>
+				<desc>3.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b2" name="Photo name 4" thumbnail="b2_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="260" height="350"/>
+				<desc>4.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a3" name="Photo name 5" thumbnail="a3_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="400"/>
+				<desc>5.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b3" name="Photo name 6" thumbnail="b3_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="700" height="300"/>
+				<desc>6.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                 </category>
+<category type="PHOTO GALLERY V">
+			<project id="a1" name="Photo name 1" thumbnail="a1_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="400"/>
+				<desc>1.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b1" name="Photo name 2" thumbnail="b1_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="350"/>
+				<desc>2.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a2" name="Photo name 3" thumbnail="a2_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="470"/>
+				<desc>3.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b2" name="Photo name 4" thumbnail="b2_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="260" height="350"/>
+				<desc>4.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a3" name="Photo name 5" thumbnail="a3_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="400"/>
+				<desc>5.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                        <project id="b3" name="Photo name 6" thumbnail="b3_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="700" height="300"/>
+				<desc>6.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+ <project id="b1" name="Photo name 2" thumbnail="b1_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="350"/>
+				<desc>2.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+			<project id="a2" name="Photo name 3" thumbnail="a2_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="470"/>
+				<desc>3.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+  <project id="b6" name="Photo name 12" thumbnail="b6_t.jpg" path="photo/">
+				<asset type="gallery" imageCount="1" width="600" height="350"/>
+				<desc>12.DESCRIPTION:Lorem ipsum dolor sit amet, Sectetur Adipisi elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Ulla laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</desc>
+			</project>
+                 </category>
+	</projects>
+</data>

@@ -1,0 +1,266 @@
+<customactions>
+  <!-- for version 2.27.28 -->
+
+  <actionspanel>                                               
+    <folder name="MC Tween 2" id="MC Tween 2" tiptext="" version="6" helpid="x204DC">
+
+      <!-- MovieClip -->
+
+      <folder name="MovieClip" id="Movieclips" tiptext="" version="6" helpid="x204DC" sort="false">
+
+        <folder name="Core Methods" id="Core Methods" tiptext="" version="6" sort="true" helpid="x204DC">
+          <string name="tween" tiptext="Starts a movieclip tweening animation" text=".tween(%property, desired property value [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="stopTween" tiptext="Stops tweens being done" text=".stopTween(%property[, property, ...]%);\n" type="procedure" object="MovieClip" version="6"/>
+        </folder>
+
+        <folder name="Shortcut Methods" id="Shortcut Methods" tiptext="" version="6" sort="true">
+          <string name="alphaTo" tiptext="Fades a movieclip to a given opacity value" text=".alphaTo(%alpha [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="bezierSlideTo" tiptext="Slides a movieclip to a given position using a bezier curve" text=".bezierSlideTo(%control point x, control point y, x, y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="colorTo" tiptext="Do a color (tint) transformation on a movieclip to a given color" text=".colorTo(%color [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="colorTransformTo" tiptext="Do a color (advanced) transformation on a movieclip to a given color" text=".colorTransformTo(%ra, rb, ga, gb, ba, bb, aa, ab [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" text2=".colorTransformTo(%colorTransformObject [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="frameTo" tiptext="Moves to a frame on the timeline using equations" text=".frameTo(%frame [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="resizeTo" tiptext="Resizes a movieclip to a given width and height" text=".resizeTo(%width, height, [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="rotateTo" tiptext="Rotates a movieclip to a given degree" text=".rotateTo(%scale [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="roundedBezierSlideTo" tiptext="Slides a movieclip to a given position using a bezier curve, using only rounded positions" text=".roundedBezierSlideTo(%control point x, control point y, x, y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="roundedSlideTo" tiptext="Slides a movieclip to a given position, using only rounded positions" text=".roundedSlideTo(%x, y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="roundedTween" tiptext="Starts a movieclip tweening animation, using only rounded numbers" text=".roundedTween(%property, desired property value [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="roundedXSlideTo" tiptext="Slides a movieclip to a given horizontal position, using only rounded positions" text=".roundedXSlideTo(%x [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="roundedYSlideTo" tiptext="Slides a movieclip to a given vertical position, using only rounded positions" text=".roundedYSlideTo(%y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="scaleTo" tiptext="Scales a movieclip to a given percentage" text=".scaleTo(%scale [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="slideTo" tiptext="Slides a movieclip to a given position" text=".slideTo(%x, y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="xScaleTo" tiptext="Scales a movieclip horizontally to a given percentage" text=".xScaleTo(%scale [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="xSlideTo" tiptext="Slides a movieclip to a given horizontal position" text=".xSlideTo(%x [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="yScaleTo" tiptext="Scales a movieclip vertically to a given percentage" text=".yScaleTo(%scale [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="ySlideTo" tiptext="Slides a movieclip to a given vertical position" text=".ySlideTo(%y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="6"/>
+        </folder>
+
+        <folder name="Flash 8 Filters Methods" id="Flash 8 Filters Methods" tiptext="" version="6" sort="true">
+          <string name="blurTo" tiptext="Adds a Blur filter to a movieclip" text=".blurTo(%blurFilter [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" text2=".blurTo(%blurXY [, quality 1-3, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+          <string name="xyBlurTo" tiptext="Adds a Blur filter to a movieclip with different horizontal and vertical values" text=".xyBlurTo(%blurX, blurY [, quality 1-3, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+          <string name="xBlurTo" tiptext="Adds a horizontal Blur filter to a movieclip" text=".xBlurTo(%blurX [, quality 1-3, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+          <string name="yBlurTo" tiptext="Adds a vertical Blur filter to a movieclip" text=".yBlurTo(%blurY [, quality 1-3, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+          <string name="glowTo" tiptext="Adds a Glow filter to a movieclip" text=".glowTo(%glowFilter [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" text2=".glowTo(%[color, alpha 0-1, blurXY, strength 0-1, quality 1-3, inner, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+          <string name="xyGlowTo" tiptext="Adds a Glow filter to a movieclip with different horizontal and vertical blur values" text=".xyGlowTo(%[color, alpha 0-1, blurX, blurY, strength 0-1, quality 1-3, inner, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+          <string name="xGlowTo" tiptext="Adds a horizontal Glow filter to a movieclip" text=".xGlowTo(%[color, alpha 0-1, blurX, strength 0-1, quality 1-3, inner, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+          <string name="yGlowTo" tiptext="Adds a horizontal Glow filter to a movieclip" text=".yGlowTo(%[color, alpha 0-1, blurY, strength 0-1, quality 1-3, inner, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+          <string name="bevelTo" tiptext="Adds a Bevel filter to a movieclip" text=".bevelTo(%BevelFilter [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" text2=".bevelTo(%[distance, angle, highlightColor, highlightAlpha 0-1, shadowColor, shadowAlpha 0-1, blurXY, strength 0-1, quality 1-3, type, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+          <string name="xyBevelTo" tiptext="Adds a Bevel filter to a movieclip with different horizontal and vertical blur values" text=".bevelTo(%[distance, angle, highlightColor, highlightAlpha 0-1, shadowColor, shadowAlpha 0-1, blurX, blurY, strength 0-1, quality 1-3, type, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="MovieClip" version="8"/>
+        </folder>
+
+        <folder name="Auxiliary Methods" id="Auxiliary Methods" tiptext="" version="6" sort="true">
+          <string name="lockTween" tiptext="Locks a movieclip, so it can't be tweened anymore" text=".lockTween(%%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="unlockTween" tiptext="Unlocks a movieclip (locked by .lockTween()), so it can be tweened again" text=".unlockTween(%%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="pauseTween" tiptext="Pauses one or more tweenings" text=".pauseTween(%property[, property, ...]%);\n" type="procedure" object="MovieClip" version="6"/>
+          <string name="resumeTween" tiptext="resumes one or more tweenings that have been paused" text=".resumes(%property[, property, ...]%);\n" type="procedure" object="MovieClip" version="6"/>
+        </folder>
+
+        <folder name="Functions" id="Functions" tiptext="" version="6" sort="true">
+          <string name="isTweening" tiptext="Returns true if a tweening is active for this movieclip, false if otherwise" text=".isTweening(%%);\n" object="MovieClip" version="6"/>
+          <string name="getTweens" tiptext="Returns the number of tweens being done for this movieclip" text=".getTweens(%%);\n" object="MovieClip" version="6"/>
+        </folder>
+
+		<folder name="Event Handlers" id="Event Handlers" tiptext="" version="6" sort="true">
+			<string name="onTweenUpdate" tiptext="Invoked after there is an update on a property being tweened on this movieclip" text=".onTweenUpdate(property_name)" type="event" object="MovieClip" version="6"/>
+			<string name="onTweenComplete" tiptext="Invoked after an specific property tween has been completed for this movieclip" text=".onTweenComplete(property_name)" type="event" object="MovieClip" version="6"/>
+		</folder>
+
+      </folder>
+
+      <!-- Sound -->
+
+      <folder name="Sound" id="Sounds" tiptext="" version="6" helpid="x204DC" sort="false">
+
+        <folder name="Core Methods" id="Core Methods" tiptext="" version="6" sort="true" helpid="x204DC">
+<!--      <string name="tween" tiptext="Starts a sound tweening" text=".tween(%property, desired property value [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="Sound" version="6"/> -->
+          <string name="stopTween" tiptext="Stops tweens being done" text=".stopTween(%property[, property, ...]%);\n" type="procedure" object="Sound" version="6"/>
+        </folder>
+
+        <folder name="Shortcut Methods" id="Shortcut Methods" tiptext="" version="6" sort="true">
+          <string name="panTo" tiptext="Starts a sound panning tweening" text=".panTo(%pan [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="Sound" version="6"/>
+          <string name="volumeTo" tiptext="Starts a sound volume fade" text=".volumeTo(%volume [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="Sound" version="6"/>
+        </folder>
+
+        <folder name="Auxiliary Methods" id="Auxiliary Methods" tiptext="" version="6" sort="true">
+          <string name="lockTween" tiptext="Locks a sound, so it can't be tweened anymore" text=".lockTween(%%);\n" type="procedure" object="Sound" version="6"/>
+          <string name="unlockTween" tiptext="Unlocks a sound (locked by .lockTween()), so it can be tweened again" text=".unlockTween(%%);\n" type="procedure" object="Sound" version="6"/>
+          <string name="pauseTween" tiptext="Pauses one or more tweenings" text=".pauseTween(%property[, property, ...]%);\n" type="procedure" object="Sound" version="6"/>
+          <string name="resumeTween" tiptext="resumes one or more tweenings that have been paused" text=".resumes(%property[, property, ...]%);\n" type="procedure" object="Sound" version="6"/>
+        </folder>
+
+        <folder name="Functions" id="Functions" tiptext="" version="6" sort="true">
+          <string name="isTweening" tiptext="Returns true if a tweening is active for this sound, false if otherwise" text=".isTweening(%%);\n" object="Sound" version="6"/>
+          <string name="getTweens" tiptext="Returns the number of tweens being done for this sound" text=".getTweens(%%);\n" object="Sound" version="6"/>
+        </folder>
+
+		<folder name="Event Handlers" id="Event Handlers" tiptext="" version="6" sort="true">
+			<string name="onTweenUpdate" tiptext="Invoked after there is an update on a property being tweened on this sound" text=".onTweenUpdate(property_name)" type="event" object="Sound" version="6"/>
+			<string name="onTweenComplete" tiptext="Invoked after an specific property tween has been completed for this sound" text=".onTweenComplete(property_name)" type="event" object="Sound" version="6"/>
+		</folder>
+
+      </folder>
+
+
+      <!-- TextField -->
+
+      <folder name="TextField" id="Textfields" tiptext="" version="6" sort="false">
+
+        <folder name="Core Methods" id="Core Methods" tiptext="" version="6" sort="true">
+          <string name="tween" tiptext="Starts a textfield tweening animation" text=".tween(%property, desired property value [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="stopTween" tiptext="Stops tweens being done" text=".stopTween(%property[, property, ...]%);\n" type="procedure" object="TextField" version="6"/>
+        </folder>
+
+        <folder name="Shortcut Methods" id="Shortcut Methods" tiptext="" version="6" sort="true">
+          <string name="alphaTo" tiptext="Fades a textfield to a given opacity value" text=".alphaTo(%alpha [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="bezierSlideTo" tiptext="Slides a textfield to a given position using a bezier curve" text=".bezierSlideTo(%control point x, control point y, x, y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="colorTo" tiptext="Do a color (tint) on a textfield to a given color" text=".colorTo(%color [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="resizeTo" tiptext="Resizes a textfield to a given width and height" text=".resizeTo(%width, height, [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="rotateTo" tiptext="Rotates a textfield to a given degree" text=".rotateTo(%scale [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="roundedBezierSlideTo" tiptext="Slides a textfield to a given position using a bezier curve, using only rounded positions" text=".roundedBezierSlideTo(%control point x, control point y, x, y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="roundedSlideTo" tiptext="Slides a textfield to a given position, using only rounded positions" text=".roundedSlideTo(%x, y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="roundedTween" tiptext="Starts a textfield tweening animation, using only rounded numbers" text=".roundedTween(%property, desired property value [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="roundedXSlideTo" tiptext="Slides a textfield to a given horizontal position, using only rounded positions" text=".roundedXSlideTo(%x [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="roundedYSlideTo" tiptext="Slides a textfield to a given vertical position, using only rounded positions" text=".roundedYSlideTo(%y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="scaleTo" tiptext="Scales a textfield to a given percentage" text=".scaleTo(%scale [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="scrollTo" tiptext="Scrolls a dynamic textfield to a given line" text=".scrollTo(%line [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="slideTo" tiptext="Slides a textfield to a given position" text=".slideTo(%x, y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="xScaleTo" tiptext="Scales a textfield horizontally to a given percentage" text=".xScaleTo(%scale [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="xSlideTo" tiptext="Slides a textfield to a given horizontal position" text=".xSlideTo(%x [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="yScaleTo" tiptext="Scales a textfield vertically to a given percentage" text=".yScaleTo(%scale [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="ySlideTo" tiptext="Slides a textfield to a given vertical position" text=".ySlideTo(%y [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="6"/>
+        </folder>
+
+        <folder name="Flash 8 Filters Methods" id="Flash 8 Filters Methods" tiptext="" version="6" sort="true">
+          <string name="blurTo" tiptext="Adds a Blur filter to a textfield" text=".blurTo(%blurFilter [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" text2=".blurTo(%blurXY [, quality 1-3, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+          <string name="xyBlurTo" tiptext="Adds a Blur filter to a textfield with different horizontal and vertical values" text=".xyBlurTo(%blurX, blurY [, quality 1-3, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+          <string name="xBlurTo" tiptext="Adds a horizontal Blur filter to a textfield" text=".xBlurTo(%blurX [, quality 1-3, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+          <string name="yBlurTo" tiptext="Adds a vertical Blur filter to a textfield" text=".yBlurTo(%blurY [, quality 1-3, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+          <string name="glowTo" tiptext="Adds a Glow filter to a textfield" text=".glowTo(%glowFilter [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" text2=".glowTo(%[color, alpha 0-1, blurXY, strength 0-1, quality 1-3, inner, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+          <string name="xyGlowTo" tiptext="Adds a Glow filter to a textfield with different horizontal and vertical blur values" text=".xyGlowTo(%[color, alpha 0-1, blurX, blurY, strength 0-1, quality 1-3, inner, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+          <string name="xGlowTo" tiptext="Adds a horizontal Glow filter to a textfield" text=".xGlowTo(%[color, alpha 0-1, blurX, strength 0-1, quality 1-3, inner, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+          <string name="yGlowTo" tiptext="Adds a horizontal Glow filter to a textfield" text=".yGlowTo(%[color, alpha 0-1, blurY, strength 0-1, quality 1-3, inner, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+          <string name="bevelTo" tiptext="Adds a Bevel filter to a textfield" text=".bevelTo(%BevelFilter [, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" text2=".bevelTo(%[distance, angle, highlightColor, highlightAlpha 0-1, shadowColor, shadowAlpha 0-1, blurXY, strength 0-1, quality 1-3, type, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+          <string name="xyBevelTo" tiptext="Adds a Bevel filter to a textfield with different horizontal and vertical blur values" text=".bevelTo(%[distance, angle, highlightColor, highlightAlpha 0-1, shadowColor, shadowAlpha 0-1, blurX, blurY, strength 0-1, quality 1-3, type, knockout, seconds to complete, animation type, delay to start, callback function, amplitude for elastic easing, period for elastic easing]%);\n" type="procedure" object="TextField" version="8"/>
+        </folder>
+
+        <folder name="Auxiliary Methods" id="Auxiliary Methods" tiptext="" version="6" sort="true">
+          <string name="lockTween" tiptext="Locks a textfield, so it can't be tweened anymore" text=".lockTween(%%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="unlockTween" tiptext="Unlocks a textfield (locked by .lockTween()), so it can be tweened again" text=".unlockTween(%%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="pauseTween" tiptext="Pauses one or more tweenings" text=".pauseTween(%property[, property, ...]%);\n" type="procedure" object="TextField" version="6"/>
+          <string name="resumeTween" tiptext="resumes one or more tweenings that have been paused" text=".resumes(%property[, property, ...]%);\n" type="procedure" object="TextField" version="6"/>
+        </folder>
+
+        <folder name="Functions" id="Functions" tiptext="" version="6" sort="true">
+          <string name="isTweening" tiptext="Returns true if a tweening is active for this textfield, false if otherwise" text=".isTweening(%%);\n" object="TextField" version="6"/>
+          <string name="getTweens" tiptext="Returns the number of tweens being done for this textfield" text=".getTweens(%%);\n" object="TextField" version="6"/>
+        </folder>
+
+		<folder name="Event Handlers" id="Event Handlers" tiptext="" version="6" sort="true">
+			<string name="onTweenUpdate" tiptext="Invoked after there is an update on a property being tweened on this textfield" text=".onTweenUpdate(property_name)" type="event" object="TextField" version="6"/>
+			<string name="onTweenComplete" tiptext="Invoked after an specific property tween has been completed for this textfield" text=".onTweenComplete(property_name)" type="event" object="TextField" version="6"/>
+		</folder>
+
+      </folder>
+    </folder>
+  </actionspanel>
+
+  <colorsyntax>
+
+	<!-- core methods -->
+
+    <identifier text=".tween"/>
+    <identifier text=".stopTween"/>
+
+
+	<!-- shortcuts -->
+
+    <identifier text=".alphaTo"/>
+    <identifier text=".bezierSlideTo"/>
+    <identifier text=".colorTo"/>
+    <identifier text=".colorTransformTo"/>
+    <identifier text=".frameTo"/>
+    <identifier text=".panTo"/>
+    <identifier text=".resizeTo"/>
+    <identifier text=".rotateTo"/>
+    <identifier text=".scaleTo"/>
+    <identifier text=".scrollTo"/>
+    <identifier text=".slideTo"/>
+    <identifier text=".volumeTo"/>
+    <identifier text=".xScaleTo"/>
+    <identifier text=".xSlideTo"/>
+    <identifier text=".yScaleTo"/>
+    <identifier text=".ySlideTo"/>
+
+	<!-- rounded shortcuts -->
+
+    <identifier text=".roundedBezierSlideTo"/>
+    <identifier text=".roundedSlideTo"/>
+    <identifier text=".roundedTween"/>
+    <identifier text=".roundedXSlideTo"/>
+    <identifier text=".roundedYSlideTo"/>
+
+
+	<!-- auxiliary functions -->
+
+    <identifier text=".getTweens"/>
+    <identifier text=".isTweening"/>
+
+
+	<!-- auxiliary methods -->
+
+    <identifier text=".lockTween"/>
+    <identifier text=".unlockTween"/>
+    <identifier text=".pauseTween"/>
+    <identifier text=".resumeTween"/>
+
+
+	<!-- methods for Flash 8's filters -->
+
+    <identifier text=".blurTo"/>
+    <identifier text=".xyBlurTo"/>
+    <identifier text=".xBlurTo"/>
+    <identifier text=".yBlurTo"/>
+
+    <identifier text=".glowTo"/>
+    <identifier text=".xyGlowTo"/>
+    <identifier text=".xGlowTo"/>
+    <identifier text=".yGlowTo"/>
+
+    <identifier text=".bevelTo"/>
+    <identifier text=".xyBevelTo"/>
+
+
+	<!-- additional events -->
+
+    <identifier text=".onTweenComplete"/>
+    <identifier text=".onTweenUpdate"/>
+
+  </colorsyntax>
+
+<!--
+  <reference path="Objects/Movie/MovieClip/Methods/tween">
+    <p class="titleStyle">MovieClip.tween</p>
+    <p class="subTitle">Availability</p>
+      <p>Flash Player 6.</p>
+    <p class="subTitle">Usage</p>
+      <p class="codeStyle"><ci>myMovieClip.</ci>tween(<ci>property(ies)</ci>, <ci>ending value(s)</ci> [, <ci>seconds</ci>, <ci>animation type</ci>, <ci>delay</ci>, <ci>callback</ci>, <ci>extra1</ci>, <ci>extra2</ci>])</p>
+    <p class="subTitle">Parameters</p>
+      <p><ci>property(ies)</ci> Property(ies) to be tweened. This can be a single string containing one property name, or an array containing a list of property names. Properties need not be standard MovieClip properties - they can be simple variables.</p>
+      <p><ci>ending value(s)</ci> New values that you want your properties to have at the end of the tween execution. This is either a numeric parameter (when only one property is been tweened) or an array of numeric parameters.</p>
+      <p><ci>seconds</ci> An optional parameter indicating the time it will take for your tweening animation to be executed, in seconds. Fraction values are accepted. Default value is <cn>2</cn>.</p>
+      <p><ci>animation type</ci> An optional parameter indicating the type of tweening you want to be executed, as an string. This indicates which of the easing equations will be used. See <cn>Animation types</cn> below for a reference on the equations. Default value is <cn>"easeoutexpo"</cn>.</p>
+    <p class="subTitle">Animation types</p>
+      <p><ci>linear:</ci> Evenly distributed, goes from the starting value to the ending value in a uniform fashion. A normal tween.</p>
+      <p><ci>easeinquad:</ci> Evenly distributed, goes from the starting value to the ending value in a uniform fashion. A normal tween.</p>
+    <p class="subTitle">Returns</p>
+      <p>Nothing.</p>
+    <p class="subTitle">Description</p>
+      <p>Method; use <cn>aa</cn>aa</p>
+    <p class="subTitle">Example</p>
+      <p>text</p>
+      <p class="codeStyle">code</p>
+    <p class="subTitle">See also</p>
+      <p><link href="133396"/><cn>MovieClip._droptarget</cn></link><br/>
+         <a href="reference:Objects/Movie/MovieClip/Methods/tween">tween</a></p>
+  </reference>
+-->
+</customactions>
